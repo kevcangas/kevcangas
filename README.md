@@ -38,4 +38,7 @@ Here are some ideas to get you started:
 - [Decision Trees y Random Forest con Python y Scikit-Learn](https://platzi.com/p/kevcangas/curso/6307-course/diploma/detalle/) @ Platzi
 - [Excel Avanzado con Macros](https://platzi.com/p/kevcangas/curso/4294-course/diploma/detalle/) @ Platzi
 
-### Projects
+### Experience
+- [API to identify faces from images](https://github.com/kevcangas/face-detection-app): Project that implements artificial intelligence to detect faces from images sent by a web application.
+- [Kaggle's spaceship challenge](https://github.com/kevcangas/spaceship-titanic): Solution of the Kaggle's challenge implementing a decision tree and random forest, including the data transform and analysis. 
+- [Robot cat control](https://github.com/kevcangas/cat-program): Control program implemented in a robot cat that has the functions of movility and detection of facial expressions.
