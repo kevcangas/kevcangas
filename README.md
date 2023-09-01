@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, my name is Kevin 👋 and I ❤ AI and Data Analysis
+
+**Field of interests**: Data Analysis, Machine Learning, Cloud Computing
+
+### Skills
+- **Languages**:&nbsp; Python, JavaScript, SQL
+- **ML Libraries**:&nbsp; Scikit-Learn, TensorFlow
+- **Data Analysis Libraries**:&nbsp; Pandas, Seaborn, Numpy, Matplotlib
+- **DevOps**:&nbsp; Linux, GitHub
+- **Office Software**:&nbsp; PowerBI, Excel with Macros, Word
+
+### Education
+- Mechatronic Engineering at IPN 2018-2023
