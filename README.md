@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kevcangas/kevcangas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,3 +41,6 @@ Here are some ideas to get you started:
 - [Kaggle's Spaceship Challenge](https://github.com/kevcangas/spaceship-titanic): Solution of the Kaggle's challenge implementing a decision tree and random forest, including the data transform and analysis. 
 - [Robot Cat Control](https://github.com/kevcangas/cat-program): Control program implemented in a robot cat that has the functions of movility and detection of facial expressions.
 - [Wine Classifier](https://github.com/kevcangas/wine_classifier): Project that classifies wine according their quality.
+
+### Social Networks
+- [Linkedin](https://www.linkedin.com/in/kevcangas/)
