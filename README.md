@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Certifications
 - [AWS Academy Graduate - AWS Academy Data Engineering](https://www.credly.com/go/DzmzhJF4)
-- [Google Cloud COmputing FOundations: Cloud Computing FUndamentals](https://www.cloudskillsboost.google/public_profiles/cbc6798a-e693-4c1f-987d-d4e251a55c80/badges/4892893)
+- [Google Cloud Computing Foundations: Cloud Computing FUndamentals](https://www.cloudskillsboost.google/public_profiles/cbc6798a-e693-4c1f-987d-d4e251a55c80/badges/4892893)
 - [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/public_profiles/cbc6798a-e693-4c1f-987d-d4e251a55c80/badges/4894862)
--[Decision Trees y Random Forest con Python y Scikit-Learn](https://platzi.com/p/kevcangas/curso/6307-course/diploma/detalle/)
+- [Decision Trees y Random Forest con Python y Scikit-Learn](https://platzi.com/p/kevcangas/curso/6307-course/diploma/detalle/)
 - [Excel Avanzado con Macros](https://platzi.com/p/kevcangas/curso/4294-course/diploma/detalle/)
