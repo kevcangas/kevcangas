@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - **Languages**:&nbsp; Python, JavaScript, SQL, C++, C
 - **ML Libraries**:&nbsp; Scikit-Learn, TensorFlow
 - **Data Analysis Libraries**:&nbsp; Pandas, Seaborn, Numpy, Matplotlib
-- **DevOps**:&nbsp; Linux, GitHub
 - **Office Software**:&nbsp; PowerBI, Excel with Macros, Word
 - **Cloud**:&nbsp; AWS, Google Cloud
-- **Web libraries**:&nbsp; Django, FastAPI
+- **Web Libraries**:&nbsp; Django, FastAPI
+- **Others**:&nbsp; Linux, GitHub
 
 ### Education
 - Mechatronic Engineering at IPN 2018-2023
