@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **Field of interests**: Data Analysis, Machine Learning, Cloud Computing
 
 ### Skills
-- **Languages**:&nbsp; Python, JavaScript, SQL
+- **Languages**:&nbsp; Python, JavaScript, SQL, C++, C
 - **ML Libraries**:&nbsp; Scikit-Learn, TensorFlow
 - **Data Analysis Libraries**:&nbsp; Pandas, Seaborn, Numpy, Matplotlib
 - **DevOps**:&nbsp; Linux, GitHub
